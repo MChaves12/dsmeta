@@ -6,7 +6,7 @@ With this web app you can search for Sales by dates, you can also see who was th
 ![Capturar](https://user-images.githubusercontent.com/98778754/179249333-1cc21982-4f60-4953-8393-8abddabc9dc8.PNG)
 
 # deployment
-The backend of the project was deployed in the heroku and integrate to the frontend with Netlify, check it out: https://dsmeta-chaves.netlify.app/
+The backend of the project was deployed in the heroku and integrate to the frontend with Netlify, check it out: https://dsmeta-chaves.netlify.app/  || https://dsmeta-chaves.herokuapp.com/
 
 # stacks
 The project was biuld with Springboot and React, JPA and H2 as database. Everything implemented in a domain model with Resources (REST Controllers), Services and Data Acess.
