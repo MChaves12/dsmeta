@@ -3,6 +3,8 @@ This project was developed during the Spring React Week given by professor Nelio
 
 With this web app you can search for Sales by dates, you can also see who was the seller, how much visits, sells and the total money did he make in a specifc month/year. In addition to that, you can send a text message to a phone number with a description of everything that the seller did in that specific frame time.
 
+![Capturar](https://user-images.githubusercontent.com/98778754/179249333-1cc21982-4f60-4953-8393-8abddabc9dc8.PNG)
+
 # deployment
 The backend of the project was deployed in the heroku and integrate to the frontend with Netlify, check it out: https://dsmeta-chaves.netlify.app/
 
